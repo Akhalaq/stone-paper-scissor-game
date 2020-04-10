@@ -47,7 +47,7 @@ while (i<=10):
 		print("		Computer won this chance!!")
 	
 	elif (user_input_for_game == random_choice):
-		print("		This chance is drawn")
+		print("	        This chance is drawn")
 
 	else:
 		print ("		 give the correct input ")
